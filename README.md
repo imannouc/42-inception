@@ -24,3 +24,8 @@ Containers will restart in case of a crash.
 ## Example Diagram :
 
 ![diagram](diagram.png)
+
+#### ps: .env File
+
+In this school project, I've chosen to keep the .env file in the repository.
+Please note that this deviates from standard practices, where the .env file is typically ignored and not included in version control.
