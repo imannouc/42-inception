@@ -23,4 +23,4 @@ Containers will restart in case of a crash.
 
 ## Example Diagram :
 
-    ![diagram](diagram.png)
+![diagram](diagram.png)
